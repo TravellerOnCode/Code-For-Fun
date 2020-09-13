@@ -15,14 +15,24 @@ Perform the binary strings recognition using the DFA constructed from NFA using 
 Compare the performance of both.
 
 Eg.,
+
 4
+
 1    2,4    2
+
 2    3       1
+
 3    4       1
+
 4    0        0
+
 10101010100010101010001
+
 11100011001001010010010
+
 1010100010
+
 10010
+
 0
 1
